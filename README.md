@@ -22,8 +22,6 @@
 ###
 
 <img align="right" height="200" src=""  />
-<div class="tenor-gif-embed" data-postid="23864910" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">Hacker Hacker Man GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
