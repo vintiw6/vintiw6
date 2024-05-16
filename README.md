@@ -1,4 +1,21 @@
-<h2 align="left">Hi 👋! My name is Vinayak Tiwari and I'm a Student, Currently Studying in CSVTU-UTD </h2>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Vinayak, a Student In CSVTU-UTD 🚀</div>  
+  
+
+- 🔭 I’m currently working on many small projects  
+  
+
+- 🌱 I’m currently learning Data Structures and ALgorithm  
+  
+
+- ⚡ Fun fact: I am bad in chess  
+  
+
+<br/>  
 
 
 
