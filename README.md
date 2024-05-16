@@ -36,8 +36,6 @@
 
 ###
 
-## Connect with me  
-<div align="center">
 <a href="https://github.com/vintiw6" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -47,11 +45,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-tiwari-4604b9281/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
   
 
 <br/>  
-###
 
 <div align="center">
   <img height="200" src="https://tenor.com/bMiv4.gif"  />
