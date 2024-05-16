@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Vinayak Tiwari and I'm a Student, Currently Studying in CSVTU-UTD </h2>
 
 ###
 
@@ -22,6 +22,7 @@
 ###
 
 <img align="right" height="200" src=""  />
+https://tenor.com/bMiv4.gif
 
 ###
 
