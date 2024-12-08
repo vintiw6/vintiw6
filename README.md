@@ -1,6 +1,6 @@
-# 🌟 Welcome to My Projects Repository!
+# 🌟 Welcome to My GitHub Profile!
 
-Hello there! I'm **Vinayak**, and this repository is a collection of my learning journey through programming, showcasing projects in Python, C++, and C. Each project reflects my growth, creativity, and passion for coding. Dive in and explore!
+Hello! I'm **Vinayak**, a passionate developer and problem solver. This space is a showcase of my learning journey and the projects I've built along the way. Feel free to explore and connect with me!
 
 ---
 
