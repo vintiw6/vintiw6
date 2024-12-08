@@ -42,7 +42,7 @@ A compilation of fundamental DSA concepts and their applications:
 I'm always eager to learn, collaborate, and grow. Feel free to explore my projects, share your thoughts, or reach out for a discussion!
 
 - [GitHub Profile](https://github.com/vintiw6)
-- [LinkedIn](#) (https://www.linkedin.com/in/vintiw6)
+- [LinkedIn](#) https://www.linkedin.com/in/vintiw6
 - 📧 Email: [vintiw667@gmail.com](mailto:vintiw667@gmail.com)
 
 ---
