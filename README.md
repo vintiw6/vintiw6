@@ -31,13 +31,6 @@ A compilation of fundamental DSA concepts and their applications:
 
 ---
 
-## 📈 Achievements
-- Enhanced customer experience by identifying potential target groups.
-- Improved sales strategies using product performance analytics.
-- Built multiple projects demonstrating practical and theoretical knowledge.
-
----
-
 ## 💬 Connect with Me
 I'm always eager to learn, collaborate, and grow. Feel free to explore my projects, share your thoughts, or reach out for a discussion!
 
