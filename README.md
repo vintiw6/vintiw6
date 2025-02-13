@@ -34,45 +34,20 @@ Here are some highlighted repositories that represent my skills and creativity:
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-### **💻 Programming Languages**
-- Python 🐍  
-- C++ 🚀  
-- C ⚡  
-- R 📊  
-
-### **📊 Data Science & Visualization**
-- Pandas 📂  
-- NumPy 🔢  
-- Matplotlib 🎨  
-- Seaborn 📉  
-- Plotly 📈  
-- ggplot2 (R) 🎯  
-
-### **🧠 Concepts & Techniques**
-- Data Structures & Algorithms (DSA) 🏗  
-- Object-Oriented Programming (OOP) 🛠  
-- Data Analysis 📊  
-- Statistical Modeling 📚  
-- Machine Learning (Basics) 🤖  
-
-### **🔧 Tools & Platforms**
-- Git & GitHub 🖥  
-- Jupyter Notebook 📒  
-- RStudio 📡  
-- Visual Studio Code 📝  
+**Languages:** Python, C++, C, R  
+**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2  
+**Concepts:** DSA, OOP, Data Analysis, ML (Basics)  
+**Tools:** Git, Jupyter, RStudio, VS Code  
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect  
 
-I'm always eager to learn, collaborate, and grow. Feel free to explore my projects, share your thoughts, or reach out for a discussion!
+🔗 **GitHub:** [vintiw6](https://github.com/vintiw6)  
+💼 **LinkedIn:** [Vinayak Tiwari](https://www.linkedin.com/in/vintiw6)  
+📧 **Email:** vintiw667@gmail.com
+🎮 **Discord:** or4ngee
 
-- 🔗 **GitHub Profile:** [vintiw6](https://github.com/vintiw6)  
-- 💼 **LinkedIn:** [Vinayak Tiwari](https://www.linkedin.com/in/vintiw6)  
-- 📧 **Email:** vintiw667@gmail.com  
-
----
-
-✨ **“Code is like humor. When you have to explain it, it’s bad.”** – Cory House
+✨ **“Code is like humor. When you have to explain it, it’s bad.”** – Cory House  
