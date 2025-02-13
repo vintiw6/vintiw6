@@ -47,7 +47,7 @@ Here are some highlighted repositories that represent my skills and creativity:
 
 🔗 **GitHub:** [vintiw6](https://github.com/vintiw6)  
 💼 **LinkedIn:** [Vinayak Tiwari](https://www.linkedin.com/in/vintiw6)  
-📧 **Email:** vintiw667@gmail.com
-🎮 **Discord:** or4ngee
+📧 **Email:** vintiw667@gmail.com  
+🎮 **Discord:** or4ngee  
 
 ✨ **“Code is like humor. When you have to explain it, it’s bad.”** – Cory House  
