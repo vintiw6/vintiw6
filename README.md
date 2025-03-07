@@ -40,12 +40,6 @@ Here are some highlighted repositories that represent my skills and creativity:
 
 ---
 
-## 🐍 Contribution Graph  
-
-![Snake animation](https://github.com/vintiw6/vintiw6/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🛠️ Skills  
 
 **Languages:** Python, C++, C, R  
