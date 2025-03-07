@@ -34,9 +34,11 @@ Here are some highlighted repositories that represent my skills and creativity:
 
 ---
 
-## 🔧 GitHub Stats
+## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=vintiw6&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vintiw6&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
