@@ -37,7 +37,12 @@ Here are some highlighted repositories that represent my skills and creativity:
 ## 📊 GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vintiw6&layout=compact&theme=radical" alt="Top Languages" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
+---
+
+## 🐍 Contribution Graph  
+
+![Snake animation](https://github.com/vintiw6/vintiw6/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
