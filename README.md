@@ -34,6 +34,12 @@ Here are some highlighted repositories that represent my skills and creativity:
 
 ---
 
+## 🔧 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
 ## 🛠️ Skills  
 
 **Languages:** Python, C++, C, R  
