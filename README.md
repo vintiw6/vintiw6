@@ -8,8 +8,7 @@
     
 ---
     
-  ## 🔗 My-Portfolio: 
-  **[vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)**
+  ## 🔗 My-Portfolio:   [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)
   
 ---  
 ## 📌 Featured Repositories  
