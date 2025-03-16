@@ -1,9 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!  
-
-  <b>Hi, I'm Vinayak</b>, a passionate <b>developer</b> and <b>problem solver</b>.  
-  <br> I love building projects and exploring new technologies.  
-  <br> Always learning, always growing. 🚀  
-  <br>
+<p align="left">
+  <a>Hi, I'm Vinayak</b>, a passionate <b>developer</b> and <b>problem solver.I love building projects and exploring new technologies.Always learning, always growing. 🚀  </a>
   <br>🔗 **My-Portfolio:** [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)  
 </p>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVndjZzcm1jNXA3cnNkaTFtZnRzeXZmaXM1bnZlMzZidnVrMjlwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="550" />
