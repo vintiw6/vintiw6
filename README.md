@@ -2,7 +2,7 @@
 
 Hi, I'm **Vinayak**, a passionate **developer** and **problem solver**. I love building projects and learning new technologies. 🚀  
 
-🔗 **Portfolio:** [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app/projects)  
+🔗 **Portfolio:** [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)  
 
 ---
 
