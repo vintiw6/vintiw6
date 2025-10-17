@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile!  
+  # 🌟 Welcome to My GitHub Profile!  
 <p align="left">
   <a>Hi, I'm Vinayak</b>, a passionate <b>developer</b> and <b>problem solver.I love building projects and exploring new technologies.Always learning, always growing. 🚀 </a>
 </p>
@@ -86,6 +86,6 @@
 
 🔗 **GitHub:** [vintiw6](https://github.com/vintiw6)  
 💼 **LinkedIn:** [Vinayak Tiwari](https://www.linkedin.com/in/vintiw6)  
-📧 **Email:** vintiw667@gmail.com  
+📧 **Email:** contact.vinayaktiwari@gmail.com  
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
