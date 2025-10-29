@@ -3,7 +3,7 @@
   <a>Hi, I'm Vinayak</b>, a passionate <b>developer</b> and <b>problem solver.I love building projects and exploring new technologies.Always learning, always growing. 🚀 </a>
 </p>
 <p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVndjZzcm1jNXA3cnNkaTFtZnRzeXZmaXM1bnZlMzZidnVrMjlwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="550" />
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVndjZzcm1jNXA3cnNkaTFtZnRzeXZmaXM1bnZlMzZidnVrMjlwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXFrYWY2NGxvdzZ5c3BlbzRobzRxNzEyZWVobnN6cnlwdWZtcW9teSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif)" width="550" />
 </p>
     
 ---
