@@ -1,35 +1,24 @@
-  # 🌟 Welcome to My GitHub Profile!  
+# 🌟 Welcome to My GitHub Profile!  
 <p align="left">
-  <a>Hi, I'm Vinayak</b>, a passionate <b>developer</b> and <b>problem solver.I love building projects and exploring new technologies.Always learning, always growing. 🚀 </a>
+  <a>Hi, I'm <b>Vinayak</b>, a passionate <b>developer</b> and <b>problem solver</b>. I love building projects and exploring new technologies. Always learning, always growing. 🚀</a>
 </p>
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXFrYWY2NGxvdzZ5c3BlbzRobzRxNzEyZWVobnN6cnlwdWZtcW9teSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif" width="550" />
 </p>
-    
----
-    
-  ## 🔗 My-Portfolio:   [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)
-  
----  
-## 📌 Featured Repositories  
 
-- **🐍 Python Learning Journey** – Python concepts & practical examples.  
-- **📚 Data Structures & Algorithms (C)** – Covers searching, sorting, and more.  
-- **🛠️ OOP in C++** – Classes, inheritance & practical use cases.  
-- **🚀 Projects Collection** – A showcase of my major projects.  
-- **📊 Data Visualization** – Matplotlib, Seaborn, and Plotly solutions.  
-- **📈 R Programming** – Data analysis, visualization & modeling.  
+---
+
+## 🔗 Portfolio: [vinayak's portfolio](https://vintiw6-my-portfolio.vercel.app)
 
 ---
 
 ## 🛠️ Skills  
 
 **Languages:** Python, C++, C, R, JavaScript  
-**Web Tech (Portfolio):** HTML, CSS, React, Tailwind CSS, Styled Components  
-**Backend & Databases:** Node.js, MySQL  
-**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2  
-**Concepts:** DSA, OOP, Data Analysis  
-**Tools:** Git, Jupyter, RStudio, VS Code  
+**ML / Data:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV  
+**Web:** React, Tailwind CSS, Node.js, HTML, CSS  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Jupyter, VS Code, RStudio  
 
 ---
 
@@ -87,5 +76,3 @@
 🔗 **GitHub:** [vintiw6](https://github.com/vintiw6)  
 💼 **LinkedIn:** [Vinayak Tiwari](https://www.linkedin.com/in/vintiw6)  
 📧 **Email:** contact.vinayaktiwari@gmail.com  
-
-✨ _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
