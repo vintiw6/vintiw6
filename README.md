@@ -1,5 +1,3 @@
-<div align="center">
-
 # VINAYAK TIWARI
 
 <sup>CS UNDERGRAD &nbsp;·&nbsp; ML RESEARCHER &nbsp;·&nbsp; DEVELOPER</sup>
@@ -10,9 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/◆_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vintiw6)&nbsp;
 [![Email](https://img.shields.io/badge/◆_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.vinayaktiwari@gmail.com)
 
-</div>
-
-<br/>
+---
 
 > I build things at the intersection of data, ML, and real-world problems.
 > Currently deep in research and always exploring something new.
@@ -31,7 +27,6 @@ Tools       Git · Jupyter · VS Code
 
 ---
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="28"/>&nbsp;&nbsp;
@@ -45,4 +40,3 @@ Tools       Git · Jupyter · VS Code
 
 <br/><br/>
 <sub>© vintiw6 · always building</sub>
-</div>
